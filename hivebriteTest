@@ -1,0 +1,3 @@
+setTimeout(function() {
+    document.getElementById('test-message').innerText = 'JavaScript is working!';
+}, 3000);
