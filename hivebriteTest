@@ -1,3 +1,2 @@
-setTimeout(function() {
-    document.getElementById('test-message').innerText = 'JavaScript is working!';
-}, 3000);
+console.log("External script loaded");
+document.getElementById("test-message").innerText = "JavaScript is working!";
